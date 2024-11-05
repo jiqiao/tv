@@ -1,0 +1,1 @@
+clan://localhost/tvbox/4k/4k.json
