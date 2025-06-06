@@ -1,5 +1,5 @@
 ﻿
-🌺中国频道❤️一帆,#genre#
+🌺中国频道❤️一帆1,#genre#
 CCTV-13全网,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13全网,http://182.32.204.113:9901/tsfile/live/0013_1.m3u8?by=angtv
 CCTV-13IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
