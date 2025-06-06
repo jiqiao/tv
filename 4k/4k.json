@@ -556,7 +556,7 @@
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "./lib/njyy.txt",
+          "url": "./lib/njyy2.txt",
           
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           
