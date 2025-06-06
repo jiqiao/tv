@@ -546,7 +546,7 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+       "filterable":0,
       "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;d437c6e042174f181efd9649a1a33f48",
       "ext": "http://127.0.0.1:9978/file/tvbox/tok.txt"
     }
@@ -556,7 +556,7 @@
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "./lib/njyy2.txt",
+          "url": "./lib/njyy.txt",
           
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           
